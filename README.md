@@ -72,4 +72,21 @@ Tecnologias utilizadas
 
 * VCL (Visual Component Library)
 
+# Cadastro Simples em Delphi
+
+Projeto feito para estudar lógica de programação usando Delphi.
+
+## Funcionalidades
+
+- Cadastro de Clientes
+- Cadastro de Vendedores
+- Cadastro de Fornecedores
+- Validação de campos
+
+## Imagem do sistema
+
+![Interface](Imagens/Interface.png)
+![ParteDeCadastroCliente](Imagens/Cliente.png)
+![FuncionamentoDasAbasJuridico/Fisico](Imagens/FuncionamentoFisico-Juridico.png)
+
 
