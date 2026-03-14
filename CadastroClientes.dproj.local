@@ -4,8 +4,8 @@
     <Transaction>2026/03/06 19:17:25.000.405,=C:\Users\mathe\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2026/03/07 16:08:40.000.929,=C:\Users\mathe\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2026/03/10 01:54:26.000.663,=C:\Users\mathe\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2026/03/10 20:34:01.000.209,D:\Projetos Delphi\Cadastro.pas=C:\Users\mathe\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2026/03/10 20:34:01.000.209,D:\Projetos Delphi\Cadastro.dfm=C:\Users\mathe\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2026/03/10 20:34:08.000.209,D:\Projetos Delphi\CadastroClientes.dproj=C:\Users\mathe\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2026/03/10 20:34:01.000.209,C:\Users\mathe\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Projetos Delphi\Cadastro.dfm</Transaction>
+    <Transaction>2026/03/10 20:34:01.000.209,C:\Users\mathe\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Projetos Delphi\Cadastro.pas</Transaction>
+    <Transaction>2026/03/10 20:34:08.000.209,C:\Users\mathe\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Projetos Delphi\CadastroClientes.dproj</Transaction>
   </Transactions>
 </BorlandProject>
